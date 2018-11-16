@@ -1,5 +1,9 @@
 # DevicePilot SDK for Python
 
+[![image](https://img.shields.io/pypi/v/devicepilot.svg)](https://pypi.org/project/requdevicepilotests/)
+[![image](https://img.shields.io/pypi/l/devicepilot.svg)](https://pypi.org/project/devicepilot/)
+[![image](https://img.shields.io/pypi/pyversions/devicepilot.svg)](https://pypi.org/project/devicepilot/)
+
 www.devicepilot.com
 
 DevicePilot is a universal cloud-based software service allowing you to easily locate, monitor and manage your connected devices at scale, with proactive management of the entire device lifecycle.
