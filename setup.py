@@ -13,7 +13,7 @@ DEVELOP_REQUIRES = [
 
 setuptools.setup(
     name="devicepilot",
-    version="1.0.0",
+    version="1.0.1",
     author="DevicePilot",
     author_email="tom.wallace@devicepilot.com",
     description="DevicePilot SDK for IoT Analytics",
