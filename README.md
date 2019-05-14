@@ -14,13 +14,13 @@ This library helps you quickly get started posting your device telemetry so you 
 
 * Sign up for a DevicePilot account if you haven't already!
 
-> [You can register for free at devicepilot.com](https://app.devicepilot.com/#/user/register)
+> [You can book at demo at devicepilot.com](https://www.devicepilot.com/contact)
 
 * Get your API key
 
 > [Find your API Key in Settings > My User](https://app.devicepilot.com/#/settings/my-user)
 
-* Add the DevicePilot library to your node-js project:
+* Add the DevicePilot library to your python project:
 
 ```
 pip install devicepilot
